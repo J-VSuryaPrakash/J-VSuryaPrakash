@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently pursuing my Bachelor of Technology in Computer Science
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- I’m currently learning WebDevelopment
+- currently pursuing my Bachelor of Technology in Computer Science
+- Learning Data Structures and Algorithms.
+- Learning WebDevelopment
